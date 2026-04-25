@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+
+database/database_backup.csv
